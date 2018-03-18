@@ -1,0 +1,18 @@
+{
+  "name": "iot-build-day",
+  "description": "These are demos of every Intel Edison Internet of Things Grove kit sensor for use during build days.",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "johnny-five": "latest",
+      "edison-io": "latest",
+      "j5-songs": "latest",
+      "jsupm_groveultrasonic": "latest",
+      "jsupm_collision": "latest",
+      "jsupm_nmea_gps": "latest",
+      "jsupm_buzzer": "latest"
+  }
+}
